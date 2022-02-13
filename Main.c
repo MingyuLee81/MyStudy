@@ -1,1 +1,6 @@
+#include<stdio.h>
 
+int main(){
+    printf("hello2323n");
+    return;
+}
